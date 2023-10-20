@@ -1,3 +1,4 @@
+# AluraPlay
 Projeto criado para o curso "***JavaScript: criando requisições***" da Alura.
 
 Contém página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.
@@ -12,6 +13,10 @@ Contém página inicial e formulário de cadastro de vídeos da AluraPlay, uma p
 
 * HTML
 * CSS
+
+## Tecnologia que eu acrescentei ao projeot
+
+* ESLint
 
 ## Screenshots
 
